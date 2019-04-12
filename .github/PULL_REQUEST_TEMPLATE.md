@@ -1,11 +1,18 @@
 <!--- Provide a general summary of your changes in the title above -->
 
-## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [ ] Bug fix (a non-breaking change which fixes an issue)
-- [ ] New feature (a non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+## copy under infomation as title
+<!--- see more details:
+https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits
+-->
 
+- feat: A new feature 
+- fix: A bug fix
+- docs: Documentation only changes
+- style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+- refactor: A code change that neither fixes a bug nor adds a feature
+- perf: A code change that improves performance
+- test: Adding missing or correcting existing tests
+- chore: Changes to the build process or auxiliary tools and libraries such as documentation generation
 
 ## Description
 <!--- Describe your changes in detail -->
