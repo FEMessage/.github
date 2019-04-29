@@ -1,6 +1,4 @@
-<!--- Provide a general summary of your changes in the title above -->
-
-## copy under infomation as title
+## copy under infomation as title and then delete them
 <!--- see more details:
 https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits
 -->
@@ -14,17 +12,11 @@ https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits
 - test: Adding missing or correcting existing tests
 - chore: Changes to the build process or auxiliary tools and libraries such as documentation generation
 
-## Description
-<!--- Describe your changes in detail -->
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it resolves an open issue, please link to the issue here. For example "Resolves: #1337" -->
+## Why
+Why is this change required? What problem does it solve?
 
+## How
+Describe your changes in detail
 
-## Checklist:
-<!--- Put an `x` in all the boxes that apply. -->
-<!--- If your change requires a documentation PR, please link it appropriately -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly. (PR: #)
-- [ ] I have added tests to cover my changes (if not applicable, please state why)
-- [ ] All new and existing tests are passing.
+## Xmind
+Show your xmind or other mind map
