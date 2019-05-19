@@ -23,7 +23,7 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**environment information: **
+**environment information:**
  - Version [e.g. 22]
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
