@@ -16,7 +16,12 @@ https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits
 Why is this change required? What problem does it solve?
 
 ## How
-Describe your changes in detail
+Describe your steps:
+1. one step
+2. two step...
 
-## Xmind
-Show your xmind or other mind map
+You may use xmind or other mind map to show you logic
+
+## Test
+Show your test case
+
