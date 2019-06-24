@@ -25,3 +25,4 @@ You may use xmind or other mind map to show you logic
 ## Test
 Show your test case
 
+you'd better show `before` and `after` 
