@@ -1,7 +1,6 @@
-## copy under infomation as title and then delete them
-<!--- see more details:
-https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits
--->
+
+<!--- 
+please use Conventional Commits： https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits
 
 - feat: A new feature 
 - fix: A bug fix
@@ -11,6 +10,7 @@ https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits
 - perf: A code change that improves performance
 - test: Adding missing or correcting existing tests
 - chore: Changes to the build process or auxiliary tools and libraries such as documentation generation
+-->
 
 ## Why
 Why is this change required? What problem does it solve?
@@ -26,3 +26,6 @@ You may use xmind or other mind map to show you logic
 Show your test case
 
 you'd better show `before` and `after` 
+
+## Docs
+It there requires a change to the documentation？
