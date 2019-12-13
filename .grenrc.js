@@ -1,6 +1,6 @@
 module.exports = {
   dataSource: 'prs',
-  prefix: '',
+  prefix: 'test',
   ignoreLabels: ['duplicate', 'help wanted', 'invalid', 'question', 'wontfix'],
   ignoreIssuesWith: [
     'duplicate',
